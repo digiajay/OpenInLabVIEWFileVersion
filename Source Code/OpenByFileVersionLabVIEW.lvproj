@@ -96,7 +96,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{054D0B72-5090-4247-A8E4-72CB4D39E9C4}</Property>
-				<Property Name="Bld_version.build" Type="Int">30</Property>
+				<Property Name="Bld_version.build" Type="Int">31</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenByFileVersionLabVIEW.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/NI_AB_PROJECTNAME/OpenByFileVersionLabVIEW.exe</Property>
