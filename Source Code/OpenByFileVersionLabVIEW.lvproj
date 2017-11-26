@@ -96,7 +96,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{054D0B72-5090-4247-A8E4-72CB4D39E9C4}</Property>
-				<Property Name="Bld_version.build" Type="Int">29</Property>
+				<Property Name="Bld_version.build" Type="Int">30</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenByFileVersionLabVIEW.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/NI_AB_PROJECTNAME/OpenByFileVersionLabVIEW.exe</Property>
@@ -140,7 +140,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E2C396F9-7DC9-47F1-A650-6332F5D27FB0}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">WriteRegistry.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/WriteRegistry/WriteRegistry.exe</Property>
@@ -182,7 +182,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9986133C-2AE3-46A6-8158-0403F013F216}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DeleteRegistry.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/DeleteRegistry/DeleteRegistry.exe</Property>
@@ -221,7 +221,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{39C0FD37-7740-4E1B-AAB6-48F82D48C403}</Property>
 				<Property Name="INST_productName" Type="Str">OpenByFileVersionLabVIEW</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.6</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.7</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">17008005</Property>
 				<Property Name="MSI_arpContact" Type="Str">mail@digiajay.com</Property>
