@@ -98,8 +98,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{054D0B72-5090-4247-A8E4-72CB4D39E9C4}</Property>
-				<Property Name="Bld_version.build" Type="Int">38</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenByFileVersionLabVIEW.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/NI_AB_PROJECTNAME/OpenByFileVersionLabVIEW.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -108,7 +109,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/EXE/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6478FC35-E370-4EDB-A586-1DA377DDEAFE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE8B1697-1CDE-4582-B83F-29C097E33556}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main-OpenByFileVersionLabVIEW.vi</Property>
@@ -139,8 +140,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E2C396F9-7DC9-47F1-A650-6332F5D27FB0}</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">WriteRegistry.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/WriteRegistry/WriteRegistry.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -148,7 +150,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/EXE/WriteRegistry/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6478FC35-E370-4EDB-A586-1DA377DDEAFE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE8B1697-1CDE-4582-B83F-29C097E33556}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/WriteRegistry - Shell Menu.vi</Property>
@@ -179,8 +181,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9986133C-2AE3-46A6-8158-0403F013F216}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DeleteRegistry.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/EXE/DeleteRegistry/DeleteRegistry.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -188,7 +191,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/EXE/DeleteRegistry/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6478FC35-E370-4EDB-A586-1DA377DDEAFE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE8B1697-1CDE-4582-B83F-29C097E33556}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DeleteRegistry - Shell Menu.vi</Property>
@@ -216,7 +219,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{39C0FD37-7740-4E1B-AAB6-48F82D48C403}</Property>
 				<Property Name="INST_productName" Type="Str">OpenByFileVersionLabVIEW</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.15</Property>
+				<Property Name="INST_productVersion" Type="Str">1.1.2</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">17008005</Property>
 				<Property Name="MSI_arpContact" Type="Str">mail@digiajay.com</Property>
